@@ -19,7 +19,7 @@ The right side represents the displayed information for cars:
 2: RGB LED that :
 
     a. Is red when the cars shouldn't cross
-    b. Is yellow 10 seconds before red
+    b. Is yellow when there are at least 10 seconds left before red shows up
     c. Is green when the cars should pass
 
 ## Here's a video of it working:
