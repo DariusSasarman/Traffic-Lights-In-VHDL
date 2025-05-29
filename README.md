@@ -21,3 +21,9 @@ The right side represents the displayed information for cars:
     a. Is red when the cars shouldn't cross
     b. Is yellow 10 seconds before red
     c. Is green when the cars should pass
+
+## Here's a video of it working:
+
+
+https://github.com/user-attachments/assets/53eaba6f-abe9-473b-bd82-124709079ce8
+
