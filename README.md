@@ -5,7 +5,7 @@ The "administrator" enters two 8-bit numbers using the switches available on the
 Then pushes the N17 button to "Program" the Traffic-Lights ( or waits for the count-downt to start. It's just a reset).
 The left side represents the displayed information for pedestrians:
   1. Seven segment count down that shows how much time the pedestrian has to wait
-  2. RGB LED that
+  2. RGB LED that :
     a. is Red when the pedestrian shouldn't pass
     b. is Green when they should
 The right side represents the displayed information for cars:
