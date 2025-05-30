@@ -22,8 +22,3 @@ The right side represents the displayed information for cars:
     b. Is yellow when there are at least 10 seconds left before red shows up
     c. Is green when the cars should pass
 
-## Here's a video of it working:
-
-
-https://github.com/user-attachments/assets/53eaba6f-abe9-473b-bd82-124709079ce8
-
